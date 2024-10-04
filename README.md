@@ -93,19 +93,7 @@ self.prediction = replicate.predictions.create(
 ## Contributing
 
 1. Fork the repository.
-2. Create your feature branch:
-   ```bash
-   git checkout -b feature/new-feature
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/new-feature
-   ```
-5. Open a pull request.
+2. Open a pull request.
 
 ## License
 
