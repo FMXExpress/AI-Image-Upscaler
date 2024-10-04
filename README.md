@@ -15,7 +15,7 @@ This project is a cross-platform GUI application built with [DelphiFMX for Pytho
 ## Requirements
 
 - Python 3.8 or higher
-- DelphiFMX for Python
+- [DelphiFMX for Python](https://pypi.org/project/delphifmx/)
 - Replicate API key
 - [Replicate Python package](https://pypi.org/project/replicate/)
 
