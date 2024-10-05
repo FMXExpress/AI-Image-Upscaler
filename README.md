@@ -12,6 +12,12 @@ This project is a cross-platform GUI application built with [DelphiFMX for Pytho
 - **Status Updates**: Displays real-time progress of the upscaling process.
 - **Image Display**: Shows both the original and upscaled images within the app.
 
+## Screenshot
+
+Below is a screenshot of the GUI in action:
+
+![App Screenshot](./screenshot.png)
+
 ## Requirements
 
 - Python 3.8 or higher
